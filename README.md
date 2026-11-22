@@ -24,7 +24,7 @@ Installation and Setup
 
 Clone this repository:
 
-  git clone YOUR_GITHUB_REPOSITORY_URL
+  git clone https://github.com/ibrahimolabode55-bot/restaurant-chatbot.git
 
 
 Navigate into the project folder:
